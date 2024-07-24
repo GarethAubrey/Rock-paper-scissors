@@ -27,6 +27,19 @@ function playGame(playerChoice) {
         }
     }
 
-    
+    playerDisplay.textContent = `PLAYER: ${playerChoice}`;
+    computerDisplay.textContent = `COMPUTER: ${computerChoice}`;
+    resultDisplay.textContent = result;
+
+    resultDisplay.classList.remove("greenText", "redText");
+
+    switch(result) {
+        case "You lose!":
+            resultDisplay.classList.add("redText");
+            break;
+        case "You win!":
+            resultDisplay.classList.add("greenText");
+            break;    
+    }
     
 }
