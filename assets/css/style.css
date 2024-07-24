@@ -16,18 +16,11 @@ h1 {
     margin-bottom: 30px;
 }
 
-.choices button {
-    font-size: 7.5rem;
-    min-width: 160px;
-    margin: 0 10px;
-    border-radius: 20%;
-    background-color: rgb(42, 100, 100);
+button {
+    max-height: 20px;
+    max-width: 80%;
+    border-radius: 8px;
     cursor: pointer;
-    transition: background-color 0.5s ease;
-}
-
-.choices button:hover {
-    background-color: aqua;
 }
 
 #playerDisplay, #computerDisplay {
