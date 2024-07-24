@@ -1,26 +1,64 @@
-body {
-    font-family: 'Times New Roman', Times, serif;
-    font-weight: bold;
+* {
+    padding: 0;
     margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    min-height: 100vh;
     display: flex;
     flex-direction: column;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+header {
+    position: absolute;
+    z-index: 99;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
     align-items: center;
+    background-color: aliceblue;
+    color: black;
 }
 
 h1 {
+    display: flex;
+    align-items: center;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 120px;
+}
+
+h2 {
     font-size: 3.5rem;
     color: rgb(9, 22, 36);
+}
+
+.gameArea {
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1%;
+    text-align: center;
 }
 
 .choices {
     margin-bottom: 30px;
 }
 
-button {
-    max-height: 20px;
-    max-width: 80%;
-    border-radius: 8px;
-    cursor: pointer;
+button img {
+   width: 150px;
+   height: 100px;
+   margin: 10px;
 }
 
 #playerDisplay, #computerDisplay {
@@ -42,3 +80,16 @@ button {
 .redText, #computerScoreDisplay {
     color: red;
 }
+
+/*footer {
+    position: absolute;
+    width: 100%;
+    left: 0;
+    right: 0;
+    box-sizing: border-box;
+    min-height: 80px;
+    padding-top: 5px;
+    text-align: center;
+    color: aqua;
+    background-color: black;
+}*/
