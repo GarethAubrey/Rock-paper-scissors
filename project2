@@ -1,0 +1,7 @@
+echo "# Rock-paper-scissors-spock" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/GarethAubrey/Rock-paper-scissors-spock.git
+git push -u origin main
