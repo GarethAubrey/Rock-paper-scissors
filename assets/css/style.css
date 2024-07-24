@@ -12,11 +12,11 @@ h1 {
     color: rgb(9, 22, 36);
 }
 
-.option {
+.choices {
     margin-bottom: 30px;
 }
 
-.option button {
+.choices button {
     font-size: 7.5rem;
     min-width: 160px;
     margin: 0 10px;
@@ -26,7 +26,7 @@ h1 {
     transition: background-color 0.5s ease;
 }
 
-.option button:hover {
+.choices button:hover {
     background-color: aqua;
 }
 
