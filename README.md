@@ -42,3 +42,65 @@ Users of this game will play one vs one against the computer, the computer will 
 ![Game-name](https://github.com/user-attachments/assets/aedc39ae-9015-4058-80bb-48fc427f9005)
 
 </div>
+
+* Icons - The icons are simple so people will be able to select their choice.
+
+<div align="center">
+
+
+![Game-images](https://github.com/user-attachments/assets/343dca56-1c5f-4284-845e-3120146fc5b1)
+
+
+</div>
+
+
+* Choices - This will show the user what they have selected vs what the computer has chosen.
+
+<div align="center">
+
+![Choices](https://github.com/user-attachments/assets/3637024a-fea5-4226-9023-ac2e640b66ca)
+
+
+</div>
+
+
+* Result - When the player wins it will present a "You win!", if they lose "You lose!" and a draw "Its a draw!".
+
+<div align="center">
+
+![Result](https://github.com/user-attachments/assets/35c27c68-505a-4168-bc71-8d4ee87c954d)
+![Result-Lose](https://github.com/user-attachments/assets/4b514401-3696-4e8f-b993-4d11662779aa)
+![Result-Draw](https://github.com/user-attachments/assets/2fd40710-d211-4f03-89c8-c78392ab10a5)
+
+
+</div>
+
+* Scores - Thsi will show what the current score is and will always go back to 0-0 when page is refreshed.
+
+
+<div align="center">
+
+
+![Scores](https://github.com/user-attachments/assets/5cebe6ad-c4c7-4897-9447-9cf933d7efe8)
+
+
+</div>
+
+
+### Features to implement
+
+* I would like to extend the game to include different choices, possibly Lizard and Spock as seen in the Big Bang Theory.
+
+## Testing
+
+* The game was tested on different devices with different size screens.
+* Game was tested to make sure results always correspond with choices made by user.
+
+<div align="center">
+
+
+
+![Lighthouse-report](https://github.com/user-attachments/assets/55c243fa-8eff-411e-9413-25b410988ac7)
+
+</div>
+
