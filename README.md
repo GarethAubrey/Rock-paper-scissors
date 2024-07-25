@@ -4,7 +4,7 @@
 
 </div>
 
-Rock Paper Scissors the best way for friends, family and colleagues to make decisions, as described in Wikipedia "Rock paper scissors is often used as a fair choosing method between two people, similar to coin flipping, drawing straws, or throwing dice in order to settle a dispute or make an unbiased group decision. Unlike truly random selection methods, however, rock paper scissors can be played with some degree of skill by recognizing and exploiting non-random behavior in opponents." 
+Rock Paper Scissors the best way for friends, family and colleagues to make decisions, as described in Wikipedia "Rock paper scissors is often used as a fair choosing method between two people, similar to coin flipping, drawing straws, or throwing dice in order to settle a dispute or make an unbiased group decision. Unlike truly random selection methods, however, rock paper scissors can be played with some degree of skill by recognizing and exploiting non-random behaviour in opponents." 
 
 Users of this game will play one vs one against the computer, the computer will pick at random as you select a choice, the user can play as many times as they want but when they wish to reset the game they can do so by refreshing the page.
 
@@ -22,7 +22,7 @@ Users of this game will play one vs one against the computer, the computer will 
 
 
 * Existing Features
-  * Header - The header is simplistic in appearence with a title of "Project 2 - Gareth Aubrey" as i didnt want anything to take the limelight of the game, it has black writing on a pleasent light blue background.
+  * Header - The header is simplistic in appearance with a title of "Project 2 - Gareth Aubrey" as I didn’t want anything to take the limelight of the game, it has black writing on a pleasant light blue background.
 
  
 <div align="center">
@@ -84,7 +84,7 @@ Users of this game will play one vs one against the computer, the computer will 
 </div>
 
 
-* Scores - Thsi will show what the current score is and will always go back to 0-0 when page is refreshed.
+* Scores - This will show what the current score is and will always go back to 0-0 when page is refreshed.
 
 
 <div align="center">
@@ -121,8 +121,8 @@ Users of this game will play one vs one against the computer, the computer will 
 ## Bugs
 
 
-* When i put the HTML through the validator i realised that had put spaces in the images files so therefore that had to be corrected before deployment.
-* There is no unfixed bugs left on game.
+* When I put the HTML through the validator i realised that had put spaces in the images files so therefore that had to be corrected before deployment.
+* There are no unfixed bugs left on game.
 
 ## Validator Testing
 
