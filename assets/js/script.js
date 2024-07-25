@@ -1,4 +1,8 @@
-// Rock Paper scissors spock
+// Rock Paper scissors
+/**
+ * Declare constants for DOM elements
+ * and possible choices
+ */
 
 const choices = ["rock", "paper", "scissors",];
 const playerDisplay = document.getElementById("playerDisplay");
@@ -8,6 +12,8 @@ const playerScoreDisplay = document.getElementById("playerScoreDisplay");
 const computerScoreDisplay = document.getElementById("computerScoreDisplay");
 let playerScore = 0;
 let computerScore = 0;
+
+/** function for game play */
 
 function playGame(playerChoice) {
 
@@ -31,11 +37,15 @@ function playGame(playerChoice) {
         }
         }
 
+/** Display for results */
+
     playerDisplay.textContent = `PLAYER: ${playerChoice}`;
     computerDisplay.textContent = `COMPUTER: ${computerChoice}`;
     resultDisplay.textContent = result;
 
     resultDisplay.classList.remove("greenText", "redText");
+
+
 
     switch(result) {
         case "You lose!":
