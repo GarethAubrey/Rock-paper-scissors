@@ -122,7 +122,7 @@ Users of this game will play one vs one against the computer, the computer will 
 
 
 * When i put the HTML through the validator i realised that had put spaces in the images files so therefore that had to be corrected before deployment.
-
+* There is no unfixed bugs left on game.
 
 ## Validator Testing
 
@@ -133,3 +133,14 @@ Users of this game will play one vs one against the computer, the computer will 
 
 * CSS -
   * ![Validator-results-css](https://github.com/user-attachments/assets/111adfb9-95e7-4d5f-89c0-9912e23845a4)
+
+
+## Deployment
+
+
+* The site was deployed to GitHub pages. The steps to deploy are -
+  * In the GitHub repository, navigate to the settings tab
+  * From the source section drop down menu, select the Master Branch
+  * Once the master branch has been selected the page will provide the link the deployed website.
+ 
+Click on link to see the deployed website - 
