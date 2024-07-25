@@ -143,7 +143,7 @@ Users of this game will play one vs one against the computer, the computer will 
   * From the source section drop down menu, select the Master Branch
   * Once the master branch has been selected the page will provide the link the deployed website.
  
-Click on link to see the deployed website - https://garethaubrey.github.io/Rock-paper-scissors-spock/
+Click on link to see the deployed website - https://garethaubrey.github.io/Rock-paper-scissors/
 
 
 ## Credits
