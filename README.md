@@ -99,8 +99,19 @@ Users of this game will play one vs one against the computer, the computer will 
 <div align="center">
 
 
-
 ![Lighthouse-report](https://github.com/user-attachments/assets/55c243fa-8eff-411e-9413-25b410988ac7)
 
 </div>
 
+## Bugs
+
+* When i put the HTML through the validator i realised that had put spaces in the images files so therefore that had to be corrected before deployment.
+
+
+## Validator Testing
+
+* HTML -
+  * ![validator-results-html](https://github.com/user-attachments/assets/8611fee0-9fc5-4044-b2c5-336dc04872d9)
+
+* CSS -
+  * ![Validator-results-css](https://github.com/user-attachments/assets/111adfb9-95e7-4d5f-89c0-9912e23845a4)
