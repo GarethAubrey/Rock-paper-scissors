@@ -150,4 +150,5 @@ Click on link to see the deployed website - https://garethaubrey.github.io/Rock-
 
 * Content - Some CSS styling was from Code Institute example code.
 * Media - Images for icons were taken from Google images.
+* Source Code - Taken from a YouTube channel called BroCode.
  
