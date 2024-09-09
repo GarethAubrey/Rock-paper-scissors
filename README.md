@@ -10,7 +10,8 @@ Users of this game will play one vs one against the computer. The computer will 
 
 <div align="center">
 
-![responsive](https://github.com/user-attachments/assets/360625a3-06c8-441d-aac7-1b491e8c4157)
+
+![Screenshot 2024-09-09 160750](https://github.com/user-attachments/assets/bb0b5bde-b234-4a6a-8af0-033218af5a00)
 
 </div>
 
